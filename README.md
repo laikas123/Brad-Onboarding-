@@ -240,3 +240,10 @@ https://screenpal.com/tutorials
 4) Slack is a resource all of us use daily. We have a team channel for the support crew (different than the main "support" channel), where we all chat. And additionally there is also the global "ticketdiscussion" and "support" channels. The "ticketdiscussion" channel is where we reach out to folks with specialities, or when there's a general quick question about a ticket. The "specialties" thing sounds fancy. What I mean by that is that for things like billing questions we will ask Miguel, for things like video uploads in a bad state we ping AJ or Dave. These are all things that will just become natural over time so don't sweat it too much. Seeing what we post will definitely be an easy guide to follow. The support discussion is typically not used by us ironically. It's mainly for when bugfixes get released, or small notes like sharing some awesome/funny replies from support. Again you'll get the feel of the channel just by reading through some of the existing messages.
 
 
+
+
+Those are sort of the general getting started tips. I think we will probably do some shadowing at some point which will help clear up stuff and feel free to ping me on slack! Always happy to help. 
+
+And again welcome to the team :)
+
+
