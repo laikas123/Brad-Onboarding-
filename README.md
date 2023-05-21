@@ -67,7 +67,7 @@ I have a custom highlighting file that highlights important events in the log fi
 
 It can be downloaded here:
 
-https://drive.google.com/file/d/1DbAM5v9KEK8Sg7sP55RoTfii3aArkUPM/view?usp=sharing
+https://drive.google.com/file/d/1s0tZME8ORU2ObGAYv1Mf_JIb2TkspLb0/view?usp=sharing
 
 Importing that into the app will give nice highlighting to important events as seen below:
 
@@ -91,6 +91,8 @@ https://somup.com/c0hrc8aobc
 **Some General Common Places To Look**
 
 https://somup.com/c0hrVIaobo
+
+*(Note the highlights file I included in this doc actually does highlight the log version so ignore that comment in the video)*
 
 
 Those are sort of the general log parsing tips and tricks. If there's any questions on parsing please don't hesitate to reach out!
@@ -213,4 +215,28 @@ There are also Android and iOS repos, but again I wouldn't worry about those yet
 
 
 ## Ticket Handling Tips
+
+### Best Resources
+
+
+1) We have quite a few premade templates for common customer issues. When you start replying to a customer click this icon to bring up the templates:
+
+![temp1](temp1.png)
+
+You will see them here on the right:
+
+![templ2](templ2.png)
+
+The ones highlighted in green are Greg's templates. As you can see he is much more organized than me ;) Jokes aside his are great, and I like to think mine (highlighted in blue) are as well. Getting familiar with these will be a huge help! Saves a ton of typing...
+
+
+2) Our tutorials page is a great way to both learn the product and also to help out customers. Sometimes an article or template can't explain somethign as well as a video, so definitely check out the tutorials page for videos that might be helpful to send to customers:
+
+https://screenpal.com/tutorials
+
+
+3) Google is another great resource. When it doubt if you don't see an issue either by searching through past tickets, templates, or tutorials I recommend searching on Google. Be careful **not to** recommend articles to customers that might have them do something serious to their computer. Often times it's better to paraphrase an article or share it only if it's directly from a site like Microsoft, Apple, or another well respected entity.
+
+4) Slack is a resource all of us use daily. We have a team channel for the support crew (different than the main "support" channel), where we all chat. And additionally there is also the global "ticketdiscussion" and "support" channels. The "ticketdiscussion" channel is where we reach out to folks with specialities, or when there's a general quick question about a ticket. The "specialties" thing sounds fancy. What I mean by that is that for things like billing questions we will ask Miguel, for things like video uploads in a bad state we ping AJ or Dave. These are all things that will just become natural over time so don't sweat it too much. Seeing what we post will definitely be an easy guide to follow. The support discussion is typically not used by us ironically. It's mainly for when bugfixes get released, or small notes like sharing some awesome/funny replies from support. Again you'll get the feel of the channel just by reading through some of the existing messages.
+
 
